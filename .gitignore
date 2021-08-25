@@ -4,3 +4,4 @@ xow
 *.d
 *.o
 .vscode/*
+**/result*
